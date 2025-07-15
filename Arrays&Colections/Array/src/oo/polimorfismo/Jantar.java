@@ -7,6 +7,7 @@ public class Jantar {
         Arroz ingrediente1 = new Arroz(0.25);
         Feijao ingrediente2 = new Feijao(0.15);
         Sorvete sobremesa = new Sorvete(0.2);
+    
 
         System.out.println("Peso antes da refeição: " + convidado.getPeso() + " kg");
 
